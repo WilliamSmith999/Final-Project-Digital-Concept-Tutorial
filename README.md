@@ -6,8 +6,9 @@ For people who think its a mystery they may never solve.
 
 First find a reason
 ---
-	... Why are you building this machine
-		..* For work, important documents, writing, or as some say office productivity
+	 Why are you building this machine
+---
+		* For work, important documents, writing, or as some say office productivity
 		* For gaming, pew pew pew, real time stratagy, 
 		* For web surfing, a digital hang ten
 

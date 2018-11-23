@@ -5,6 +5,7 @@ For people who think its a mystery they may never solve.
 ---
 
 First find a reason
+---
 	... Why are you building this machine
 		..* For work, important documents, writing, or as some say office productivity
 		* For gaming, pew pew pew, real time stratagy, 
@@ -15,6 +16,7 @@ First find a reason
 		..* That's a joke Crysis is a game known for it's hefty requirements
 
 Second find money (Set a budget)
+---
 	... Here's some general rules that with some elbow grease and knowing a guy you could avoid but eh
 		..* Gaming costs more, outside of fancy research computers this has the highest cost to do
 		* You can use word on just about anything or as we tech people say "It can run on a potato"

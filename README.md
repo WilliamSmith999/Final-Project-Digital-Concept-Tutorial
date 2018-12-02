@@ -27,6 +27,6 @@ Second find money (Set a budget)
 
 Supprising facts
 ---
-![alt text](../images/Raspberry-Pi-Zero.jpg "Pi zero")
+![alt text](./images/Raspberry-Pi-Zero.jpg "Pi zero")
 >* you can have the core of a computer for $10 amarican dollors. If you want a computer for education, documents ect you actually don't need a lot of money
 >	* [I like pi](https://www.raspberrypi.org/)

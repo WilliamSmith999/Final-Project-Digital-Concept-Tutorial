@@ -57,9 +57,8 @@ Fourth play with legos
 > If you played with legos, mega blocks, or similar as a kid you can build a pc.
 >* They even have the same instructions.
 > The CPU is one of the most expensive and easist to break so here's a video to help you visualize it
->* This is the Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua
-> <a href="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" target="_blank"><img src="https://www.youtube.com/watch?v=xw3ZY5rKkOk" alt="Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua" width="240" height="180" border="10" /></a>
-> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>* This is the Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua (The wraith cooler is one of the more complicated installs I've seen so heres the hard one)
+> [Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua](https://www.youtube.com/watch?v=xw3ZY5rKkOk)
 
 Supprising facts
 ---

@@ -10,7 +10,7 @@ First find a reason
 >* For work, important documents, writing, or as some say office productivity
 >* For gaming, pew pew pew, real time stratagy, 
 >* For web surfing, a digital hang ten
->... You could want to mix these. I mean who doesn't plan to you the internet with their computer
+>... You could want to mix these. I mean who doesn't plan to use the internet with their computer
 >... If you just go with the highest bar. If it's good enough to pay Crysis it's good enough to do anything
 >	* That's a joke Crysis is a game known for it's hefty requirements
 
@@ -27,5 +27,6 @@ Second find money (Set a budget)
 
 Supprising facts
 ---
->* you can have a computer for $10 amarican dollors. If you want a computer for education, documents ect you actually don't need a lot of money
+![alt text](./DankSoul.jpg "Dark Souls Meme 1")
+>* you can have the core of a computer for $10 amarican dollors. If you want a computer for education, documents ect you actually don't need a lot of money
 >	* [I like pi](https://www.raspberrypi.org/)

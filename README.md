@@ -59,6 +59,13 @@ Fourth play with legos
 > The CPU is one of the most expensive and easist to break so here's a video to help you visualize it
 >* This is the Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua (The wraith cooler is one of the more complicated installs I've seen so heres the hard one)
 > [Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua](https://www.youtube.com/watch?v=xw3ZY5rKkOk)
+> As unatural as it sound paperwork is your friend, picture books are adult instructions, and build a PC isn't as hard as the dollar signs make it sound
+
+More Tips and Tricks
+---
+>* CPU's have a triangle on one corner to make sure you line it up in the socket correctly.
+>* You can do it. One of the biggest hurdles to building a PC is the belief that its complicated
+
 
 Supprising facts
 ---

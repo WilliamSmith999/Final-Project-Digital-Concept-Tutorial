@@ -26,6 +26,41 @@ Second find money (Set a budget)
 >	* A specific component of your computer doesn't really slow down over time. See example [I'm a link](https://www.youtube.com/watch?v=44JqNJq-PC0) Software, however, does. Every update changes the code sometimes well sometimes not, usually with new hardware in mind So what happens is that software is now harder for old computers to run even if it's the program is still Internet Explorer
 >* Less is more, this is more a rule for software. The more programs you have in use the more power your computer needs.
 
+Third pick your poison, I mean parts
+---
+> Brand loyalty is over rated, but it can make things easier if you don't want to think to hard about it
+> if all your parts are under one or two roof customer service can be a bit more knowledgeable
+> [PCPARTPICKER.COM](https://pcpartpicker.com/)
+> *I have assemble several computers and I still use/trust this site to make sure things fit.
+> You will need at minium 
+>* _ ATX tower (or mid-tower) case
+>* _ Power Supply
+>* _ CPU
+>* _ ATX Motherboard
+>* _ RAM / Memory
+>* _ Graphics/video card
+>* _ Cooling / Fans
+>* _ Storage
+> as for which brand is best or model is best
+> Image for a moment you are shopping for Mac & Cheese
+> Which is best is a matter of taste.
+> Yes some Macs are more plastic than cheese, but if you like it that way...
+> Some popular brands at the time of writting are, Asus, Asrock, and MSI
+>* Personally I have used several Asus and asrock brand parts. Neither have let me down.
+
+Fourth play with legos
+---
+> PC manufacturers have been working to make PCs simpiler and simpiler to put together
+>* ZIP(idy do da zipidy day) is Zero Inerstion Force, in normal talk if you have to push really hard it doesn't go there
+>* Different generagtions of RAM, random access memory, look different. The notch is mover slightly off center one way or another to prevent them from going in wrong generation slots
+> Your're probably over thinking it.
+> If you played with legos, mega blocks, or similar as a kid you can build a pc.
+>* They even have the same instructions.
+> The CPU is one of the most expensive and easist to break so here's a video to help you visualize it
+>* This is the Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua
+> <a href="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" target="_blank"><img src="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" alt="Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua" width="240" height="180" border="10" /></a>
+> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Supprising facts
 ---
 ![alt text](./images/Raspberry-Pi-Zero.jpg "Pi zero")

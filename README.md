@@ -58,7 +58,7 @@ Fourth play with legos
 >* They even have the same instructions.
 > The CPU is one of the most expensive and easist to break so here's a video to help you visualize it
 >* This is the Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua
-> <a href="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" target="_blank"><img src="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" alt="Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua" width="240" height="180" border="10" /></a>
+> <a href="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" target="_blank"><img src="https://www.youtube.com/watch?v=xw3ZY5rKkOk" alt="Installing AMD Ryzen CPU and Wraith Spire Cooler by Roy Chua" width="240" height="180" border="10" /></a>
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xw3ZY5rKkOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Supprising facts

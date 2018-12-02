@@ -16,6 +16,7 @@ First find a reason
 
 Second find money (Set a budget)
 ---
+![alt text](./images/money.jpg "$$$$")
 > Here's some general rules that with some elbow grease and knowing a guy you could avoid but eh
 >* Gaming costs more, outside of fancy research computers this has the highest cost to do
 >* You can use word on just about anything or as we tech people say "It can run on a potato"
